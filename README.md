@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Amanda 👋
 
-<!--
-**AmandaChisiya-create/AmandaChisiya-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a cybersecurity enthusiast focused on building strong foundations in networking, Linux systems, and Python programming. I enjoy understanding how systems work, how they fail, and how they can be secured.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I’m currently learning
+- Networking fundamentals (TCP/IP, routing, protocols)
+- Linux systems and command-line tools
+- Python for automation and security tasks
+- Cybersecurity fundamentals and lab-based learning
+
+---
+
+## 🛠️ Tools & Technologies
+- Python
+- Linux (Ubuntu/Kali basics)
+- Git & GitHub
+- Networking tools (Wireshark, Nmap - learning stage)
+
+---
+
+## 📁 Projects
+I’m currently building hands-on lab projects and will be sharing them here soon, including:
+- Network scanning and analysis labs
+- Security automation scripts
+- System and vulnerability exploration lab
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/amanda-chisiya-100609405/
+
+
+
+
